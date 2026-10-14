@@ -3,7 +3,7 @@
 **M.Sc. Control Systems Engineering student at the University of Padova** — working at the meeting point of
 **industrial automation**, **control engineering** and **computer vision**.
 
-I am currently looking for a **Master's thesis project** and an **internship** in control systems, industrial
+I am currently looking for an **internship** in control systems, industrial
 automation or applied computer vision.
 
 ---
@@ -41,7 +41,7 @@ Persian (native) · English (fluent, TOEFL iBT 108/120) · Italian (beginner)
 
 ## Contact
 
-* LinkedIn: [kiavash-rabbani-soudabi](https://www.linkedin.com/in/kiavash-rabbani-soudabi)
+* LinkedIn: [kiavash-rabbani-soudabi]([https://www.linkedin.com/in/kiavash-rabbani-soudabi](https://www.linkedin.com/in/kiavash-rabbani-soudabi-937514220/))
 * Email: kiavashrabbanisoudabi@gmail.com
 * Based in Padova, Italy
 
